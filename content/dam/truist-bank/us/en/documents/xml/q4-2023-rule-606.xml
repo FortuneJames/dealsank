@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heldOrderRoutingPublicReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oh-20190331.xsd">
+  <version>1.2</version>
+  <bd>Truist Investment Services, Inc.</bd>
+  <year>2023</year>
+  <qtr>4</qtr>
+  <timestamp>2024-01-31T14:03:10Z</timestamp>
+  
+    <rMonthly>
+      <year>2023</year>
+      <mon>11</mon>
+      
+      <rSP500>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>92.03</ndoMarketPct>
+        <ndoMarketableLimitPct>0.26</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>7.59</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.12</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>27.65</orderPct>
+              <marketPct>29.66</marketPct>
+              <marketableLimitPct>22.58</marketableLimitPct>
+              <nonMarketableLimitPct>3.10</nonMarketableLimitPct>
+              <otherPct>46.58</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>20.49</orderPct>
+              <marketPct>22.04</marketPct>
+              <marketableLimitPct>16.77</marketableLimitPct>
+              <nonMarketableLimitPct>1.53</nonMarketableLimitPct>
+              <otherPct>28.77</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>15.95</orderPct>
+              <marketPct>17.19</marketPct>
+              <marketableLimitPct>9.68</marketableLimitPct>
+              <nonMarketableLimitPct>1.15</nonMarketableLimitPct>
+              <otherPct>10.96</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>13.84</orderPct>
+              <marketPct>14.90</marketPct>
+              <marketableLimitPct>9.68</marketableLimitPct>
+              <nonMarketableLimitPct>1.19</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>13.54</orderPct>
+              <marketPct>14.61</marketPct>
+              <marketableLimitPct>37.42</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>4.00</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>2.58</marketableLimitPct>
+              <nonMarketableLimitPct>52.86</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>-0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>2.69</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>1.29</marketableLimitPct>
+              <nonMarketableLimitPct>35.58</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Two Sigma Securities (SOHO)</name>
+              <orderPct>1.05</orderPct>
+              <marketPct>1.12</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.19</nonMarketableLimitPct>
+              <otherPct>9.59</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>UBS Securities LLC (UBSS)</name>
+              <orderPct>0.45</orderPct>
+              <marketPct>0.48</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.02</nonMarketableLimitPct>
+              <otherPct>4.11</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE EDGX U.S. Equities Exchange (EDGX)</name>
+              <orderPct>0.33</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>4.39</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rSP500>
+      
+      <rOtherStocks>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>89.47</ndoMarketPct>
+        <ndoMarketableLimitPct>0.91</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>9.42</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.20</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>24.44</orderPct>
+              <marketPct>26.51</marketPct>
+              <marketableLimitPct>17.82</marketableLimitPct>
+              <nonMarketableLimitPct>2.16</nonMarketableLimitPct>
+              <otherPct>58.65</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>22.04</orderPct>
+              <marketPct>23.96</marketPct>
+              <marketableLimitPct>44.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>18.13</orderPct>
+              <marketPct>19.70</marketPct>
+              <marketableLimitPct>15.45</marketableLimitPct>
+              <nonMarketableLimitPct>1.54</nonMarketableLimitPct>
+              <otherPct>23.31</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>14.27</orderPct>
+              <marketPct>15.58</marketPct>
+              <marketableLimitPct>11.45</marketableLimitPct>
+              <nonMarketableLimitPct>0.83</nonMarketableLimitPct>
+              <otherPct>6.02</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>12.06</orderPct>
+              <marketPct>13.18</marketPct>
+              <marketableLimitPct>9.82</marketableLimitPct>
+              <nonMarketableLimitPct>0.60</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>3.65</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.18</marketableLimitPct>
+              <nonMarketableLimitPct>43.07</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>2.66</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.36</marketableLimitPct>
+              <nonMarketableLimitPct>31.35</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Two Sigma Securities (SOHO)</name>
+              <orderPct>1.00</orderPct>
+              <marketPct>1.07</marketPct>
+              <marketableLimitPct>0.73</marketableLimitPct>
+              <nonMarketableLimitPct>0.03</nonMarketableLimitPct>
+              <otherPct>12.03</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>0.88</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>10.42</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>0.85</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.18</marketableLimitPct>
+              <nonMarketableLimitPct>9.99</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOtherStocks>
+      
+      <rOptions>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>32.63</ndoMarketPct>
+        <ndoMarketableLimitPct>4.04</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>63.29</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.05</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>50.17</orderPct>
+              <marketPct>59.35</marketPct>
+              <marketableLimitPct>35.71</marketableLimitPct>
+              <nonMarketableLimitPct>46.39</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Wolverine Execution Svc. (WEXX)</name>
+              <orderPct>16.19</orderPct>
+              <marketPct>0.88</marketPct>
+              <marketableLimitPct>7.14</marketableLimitPct>
+              <nonMarketableLimitPct>24.68</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>DASH FINANCIAL LLC (DFIN)</name>
+              <orderPct>13.98</orderPct>
+              <marketPct>8.84</marketPct>
+              <marketableLimitPct>2.38</marketableLimitPct>
+              <nonMarketableLimitPct>17.39</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+             <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Susquehanna International Group, LLP (SUSQ)</name>
+              <orderPct>9.71</orderPct>
+              <marketPct>23.42</marketPct>
+              <marketableLimitPct>9.52</marketableLimitPct>
+              <nonMarketableLimitPct>2.66</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Morgan Stanley (MSCO)</name>
+              <orderPct>5.86</orderPct>
+              <marketPct>2.80</marketPct>
+              <marketableLimitPct>38.10</marketableLimitPct>
+              <nonMarketableLimitPct>5.32</nonMarketableLimitPct>
+              <otherPct>100.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>1.49</orderPct>
+              <marketPct>2.21</marketPct>
+              <marketableLimitPct>2.38</marketableLimitPct>
+              <nonMarketableLimitPct>1.06</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>0.96</orderPct>
+              <marketPct>1.03</marketPct>
+              <marketableLimitPct>2.38</marketableLimitPct>
+              <nonMarketableLimitPct>0.84</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+             <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Chicago Board Options Exchange (CBOE)</name>
+              <orderPct>0.96</orderPct>
+              <marketPct>0.88</marketPct>
+              <marketableLimitPct>2.38</marketableLimitPct>
+              <nonMarketableLimitPct>0.91</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Global Execution Brokers, LP (GEBB)</name>
+              <orderPct>0.34</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.53</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>The Nasdaq Stock Market LLC (NSDQ)</name>
+              <orderPct>0.34</orderPct>
+              <marketPct>0.59</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.23</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOptions>
+      
+    </rMonthly>
+  
+    <rMonthly>
+      <year>2023</year>
+      <mon>12</mon>
+      
+      <rSP500>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>91.57</ndoMarketPct>
+        <ndoMarketableLimitPct>0.35</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>7.92</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.15</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>25.98</orderPct>
+              <marketPct>27.97</marketPct>
+              <marketableLimitPct>17.60</marketableLimitPct>
+              <nonMarketableLimitPct>2.71</nonMarketableLimitPct>
+              <otherPct>43.27</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>19.22</orderPct>
+              <marketPct>20.77</marketPct>
+              <marketableLimitPct>12.88</marketableLimitPct>
+              <nonMarketableLimitPct>1.45</nonMarketableLimitPct>
+              <otherPct>11.54</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>18.12</orderPct>
+              <marketPct>19.51</marketPct>
+              <marketableLimitPct>15.02</marketableLimitPct>
+              <nonMarketableLimitPct>1.87</nonMarketableLimitPct>
+              <otherPct>18.27</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>14.26</orderPct>
+              <marketPct>15.41</marketPct>
+              <marketableLimitPct>14.16</marketableLimitPct>
+              <nonMarketableLimitPct>1.09</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>13.83</orderPct>
+              <marketPct>14.94</marketPct>
+              <marketableLimitPct>37.34</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>4.14</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>2.15</marketableLimitPct>
+              <nonMarketableLimitPct>52.82</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>2.76</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.86</marketableLimitPct>
+              <nonMarketableLimitPct>35.27</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Two Sigma Securities (SOHO)</name>
+              <orderPct>0.88</orderPct>
+              <marketPct>0.91</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.11</nonMarketableLimitPct>
+              <otherPct>23.08</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>UBS Securities LLC (UBSS)</name>
+              <orderPct>0.45</orderPct>
+              <marketPct>0.49</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>0.04</nonMarketableLimitPct>
+              <otherPct>1.92</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE EDGX U.S. Equities Exchange (EDGX)</name>
+              <orderPct>0.37</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>4.64</nonMarketableLimitPct>
+              <otherPct>1.92</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rSP500>
+      
+      <rOtherStocks>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>88.68</ndoMarketPct>
+        <ndoMarketableLimitPct>0.93</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>10.08</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.31</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>22.63</orderPct>
+              <marketPct>24.87</marketPct>
+              <marketableLimitPct>20.13</marketableLimitPct>
+              <nonMarketableLimitPct>2.13</nonMarketableLimitPct>
+              <otherPct>57.58</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>21.87</orderPct>
+              <marketPct>24.20</marketPct>
+              <marketableLimitPct>45.13</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>16.89</orderPct>
+              <marketPct>18.76</marketPct>
+              <marketableLimitPct>10.55</marketableLimitPct>
+              <nonMarketableLimitPct>1.06</nonMarketableLimitPct>
+              <otherPct>13.13</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>16.14</orderPct>
+              <marketPct>17.82</marketPct>
+              <marketableLimitPct>13.47</marketableLimitPct>
+              <nonMarketableLimitPct>1.23</nonMarketableLimitPct>
+              <otherPct>29.29</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>12.85</orderPct>
+              <marketPct>14.31</marketPct>
+              <marketableLimitPct>8.12</marketableLimitPct>
+              <nonMarketableLimitPct>0.74</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>3.67</orderPct>
+              <marketPct>0.04</marketPct>
+              <marketableLimitPct>0.81</marketableLimitPct>
+              <nonMarketableLimitPct>36.02</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>2.50</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.81</marketableLimitPct>
+              <nonMarketableLimitPct>24.71</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>1.43</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.97</marketableLimitPct>
+              <nonMarketableLimitPct>14.08</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>1.14</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>11.30</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE EDGX U.S. Equities Exchange (EDGX)</name>
+              <orderPct>0.89</orderPct>
+              <marketPct>0.01</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>8.74</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOtherStocks>
+      
+      <rOptions>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>27.12</ndoMarketPct>
+        <ndoMarketableLimitPct>4.53</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>68.36</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.00</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>40.07</orderPct>
+              <marketPct>45.59</marketPct>
+              <marketableLimitPct>26.02</marketableLimitPct>
+              <nonMarketableLimitPct>38.81</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Wolverine Execution Svc. (WEXX)</name>
+              <orderPct>17.70</orderPct>
+              <marketPct>0.95</marketPct>
+              <marketableLimitPct>1.63</marketableLimitPct>
+              <nonMarketableLimitPct>25.40</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>DASH FINANCIAL LLC (DFIN)</name>
+              <orderPct>14.53</orderPct>
+              <marketPct>10.72</marketPct>
+              <marketableLimitPct>6.50</marketableLimitPct>
+              <nonMarketableLimitPct>16.58</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Susquehanna International Group, LLP (SUSQ)</name>
+              <orderPct>8.31</orderPct>
+              <marketPct>22.12</marketPct>
+              <marketableLimitPct>17.07</marketableLimitPct>
+              <nonMarketableLimitPct>2.26</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Morgan Stanley (MSCO)</name>
+              <orderPct>5.37</orderPct>
+              <marketPct>4.48</marketPct>
+              <marketableLimitPct>19.51</marketableLimitPct>
+              <nonMarketableLimitPct>4.79</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>4.86</orderPct>
+              <marketPct>5.83</marketPct>
+              <marketableLimitPct>11.38</marketableLimitPct>
+              <nonMarketableLimitPct>4.04</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Chicago Board Options Exchange (CBOE)</name>
+              <orderPct>3.64</orderPct>
+              <marketPct>3.80</marketPct>
+              <marketableLimitPct>1.63</marketableLimitPct>
+              <nonMarketableLimitPct>3.71</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>The Nasdaq Stock Market LLC (NSDQ)</name>
+              <orderPct>3.13</orderPct>
+              <marketPct>2.44</marketPct>
+              <marketableLimitPct>11.38</marketableLimitPct>
+              <nonMarketableLimitPct>2.85</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>1.73</orderPct>
+              <marketPct>3.53</marketPct>
+              <marketableLimitPct>4.07</marketableLimitPct>
+              <nonMarketableLimitPct>0.86</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Global Execution Brokers, LP (GEBB)</name>
+              <orderPct>0.66</orderPct>
+              <marketPct>0.54</marketPct>
+              <marketableLimitPct>0.81</marketableLimitPct>
+              <nonMarketableLimitPct>0.70</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOptions>
+      
+    </rMonthly>
+  
+    <rMonthly>
+      <year>2023</year>
+      <mon>10</mon>
+      
+      <rSP500>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>90.89</ndoMarketPct>
+        <ndoMarketableLimitPct>0.27</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>8.63</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.21</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>28.03</orderPct>
+              <marketPct>30.26</marketPct>
+              <marketableLimitPct>24.26</marketableLimitPct>
+              <nonMarketableLimitPct>2.67</nonMarketableLimitPct>
+              <otherPct>50.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>21.07</orderPct>
+              <marketPct>22.78</marketPct>
+              <marketableLimitPct>19.53</marketableLimitPct>
+              <nonMarketableLimitPct>1.87</nonMarketableLimitPct>
+              <otherPct>25.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>15.02</orderPct>
+              <marketPct>16.28</marketPct>
+              <marketableLimitPct>8.88</marketableLimitPct>
+              <nonMarketableLimitPct>1.08</nonMarketableLimitPct>
+              <otherPct>16.67</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>13.60</orderPct>
+              <marketPct>14.80</marketPct>
+              <marketableLimitPct>9.47</marketableLimitPct>
+              <nonMarketableLimitPct>0.71</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>12.96</orderPct>
+              <marketPct>14.12</marketPct>
+              <marketableLimitPct>26.04</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>4.07</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>2.96</marketableLimitPct>
+              <nonMarketableLimitPct>49.54</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>3.27</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>5.92</marketableLimitPct>
+              <nonMarketableLimitPct>39.73</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Two Sigma Securities (SOHO)</name>
+              <orderPct>1.19</orderPct>
+              <marketPct>1.27</marketPct>
+              <marketableLimitPct>1.78</marketableLimitPct>
+              <nonMarketableLimitPct>0.10</nonMarketableLimitPct>
+              <otherPct>5.30</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>UBS Securities LLC (UBSS)</name>
+              <orderPct>0.45</orderPct>
+              <marketPct>0.48</marketPct>
+              <marketableLimitPct>0.59</marketableLimitPct>
+              <nonMarketableLimitPct>0.08</nonMarketableLimitPct>
+              <otherPct>3.03</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE EDGX U.S. Equities Exchange (EDGX)</name>
+              <orderPct>0.35</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.59</marketableLimitPct>
+              <nonMarketableLimitPct>4.22</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rSP500>
+      
+      <rOtherStocks>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>88.33</ndoMarketPct>
+        <ndoMarketableLimitPct>0.75</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>10.68</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.24</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>24.62</orderPct>
+              <marketPct>26.97</marketPct>
+              <marketableLimitPct>20.04</marketableLimitPct>
+              <nonMarketableLimitPct>2.66</nonMarketableLimitPct>
+              <otherPct>55.29</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Fidelity CrossStream ATS (XSTM)</name>
+              <orderPct>20.38</orderPct>
+              <marketPct>22.47</marketPct>
+              <marketableLimitPct>44.09</marketableLimitPct>
+              <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Virtu Americas, LLC (NITE)</name>
+              <orderPct>18.91</orderPct>
+              <marketPct>20.81</marketPct>
+              <marketableLimitPct>13.23</marketableLimitPct>
+              <nonMarketableLimitPct>1.82</nonMarketableLimitPct>
+              <otherPct>23.53</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>G1 Execution Services, LLC (ETMM)</name>
+              <orderPct>13.32</orderPct>
+              <marketPct>14.72</marketPct>
+              <marketableLimitPct>9.82</marketableLimitPct>
+              <nonMarketableLimitPct>0.87</nonMarketableLimitPct>
+              <otherPct>10.59</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Jane Street Capital, LLC (JNST)</name>
+              <orderPct>12.20</orderPct>
+              <marketPct>13.51</marketPct>
+              <marketableLimitPct>10.42</marketableLimitPct>
+              <nonMarketableLimitPct>0.62</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NADAQ Execution Services, LLC (INET)</name>
+              <orderPct>3.83</orderPct>
+              <marketPct>0.17</marketPct>
+              <marketableLimitPct>0.80</marketableLimitPct>
+              <nonMarketableLimitPct>37.58</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE New York Stock Exchange, Inc (NYSE)</name>
+              <orderPct>2.62</orderPct>
+              <marketPct>0.09</marketPct>
+              <marketableLimitPct>0.20</marketableLimitPct>
+              <nonMarketableLimitPct>26.00</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>1.88</orderPct>
+              <marketPct>0.15</marketPct>
+              <marketableLimitPct>0.00</marketableLimitPct>
+              <nonMarketableLimitPct>17.97</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>1.22</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>0.60</marketableLimitPct>
+              <nonMarketableLimitPct>12.41</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Two Sigma Securities (SOHO)</name>
+              <orderPct>1.04</orderPct>
+              <marketPct>1.12</marketPct>
+              <marketableLimitPct>0.80</marketableLimitPct>
+              <nonMarketableLimitPct>0.06</nonMarketableLimitPct>
+              <otherPct>10.59</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOtherStocks>
+      
+      <rOptions>
+        <ndoPct>100.00</ndoPct>
+        <ndoMarketPct>26.73</ndoMarketPct>
+        <ndoMarketableLimitPct>5.16</ndoMarketableLimitPct>
+        <ndoNonmarketableLimitPct>68.01</ndoNonmarketableLimitPct>
+        <ndoOtherPct>0.11</ndoOtherPct>
+        <rVenues>
+          
+            <rVenue>
+              <name>Citadel Securities (CDRG)</name>
+              <orderPct>39.48</orderPct>
+              <marketPct>45.31</marketPct>
+              <marketableLimitPct>36.99</marketableLimitPct>
+              <nonMarketableLimitPct>37.44</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Wolverine Execution Svc. (WEXX)</name>
+              <orderPct>17.48</orderPct>
+              <marketPct>0.79</marketPct>
+              <marketableLimitPct>0.68</marketableLimitPct>
+              <nonMarketableLimitPct>25.34</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>DASH FINANCIAL LLC (DFIN)</name>
+              <orderPct>13.14</orderPct>
+              <marketPct>6.87</marketPct>
+              <marketableLimitPct>6.85</marketableLimitPct>
+              <nonMarketableLimitPct>16.10</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Susquehanna International Group, LLP (SUSQ)</name>
+              <orderPct>9.50</orderPct>
+              <marketPct>30.12</marketPct>
+              <marketableLimitPct>17.12</marketableLimitPct>
+              <nonMarketableLimitPct>0.83</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Morgan Stanley (MSCO)</name>
+              <orderPct>5.40</orderPct>
+              <marketPct>3.57</marketPct>
+              <marketableLimitPct>24.66</marketableLimitPct>
+              <nonMarketableLimitPct>4.67</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>NYSE ARCA (ARCA)</name>
+              <orderPct>4.73</orderPct>
+              <marketPct>4.36</marketPct>
+              <marketableLimitPct>4.11</marketableLimitPct>
+              <nonMarketableLimitPct>4.88</nonMarketableLimitPct>
+              <otherPct>33.33</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Chicago Board Options Exchange (CBOE)</name>
+              <orderPct>4.34</orderPct>
+              <marketPct>3.57</marketPct>
+              <marketableLimitPct>3.42</marketableLimitPct>
+              <nonMarketableLimitPct>4.67</nonMarketableLimitPct>
+              <otherPct>33.33</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>The Nasdaq Stock Market LLC (NSDQ)</name>
+              <orderPct>3.11</orderPct>
+              <marketPct>3.83</marketPct>
+              <marketableLimitPct>2.74</marketableLimitPct>
+              <nonMarketableLimitPct>2.80</nonMarketableLimitPct>
+              <otherPct>33.33</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>CBOE BZX U.S. Equities Exchange (BATS)</name>
+              <orderPct>2.47</orderPct>
+              <marketPct>1.59</marketPct>
+              <marketableLimitPct>2.05</marketableLimitPct>
+              <nonMarketableLimitPct>2.86</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+            <rVenue>
+              <name>Global Execution Brokers, LP (GEBB)</name>
+              <orderPct>0.35</orderPct>
+              <marketPct>0.00</marketPct>
+              <marketableLimitPct>1.37</marketableLimitPct>
+              <nonMarketableLimitPct>0.42</nonMarketableLimitPct>
+              <otherPct>0.00</otherPct>
+              <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+              <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+              <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+              <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+              <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+              <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+              <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+              <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+              <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to Na:onal Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow. The order rou:ng informa:on contained in this report is provided by NFS</materialAspects>   
+            </rVenue>
+          
+        </rVenues>
+      </rOptions>
+      
+    </rMonthly>
+  
+</heldOrderRoutingPublicReport>

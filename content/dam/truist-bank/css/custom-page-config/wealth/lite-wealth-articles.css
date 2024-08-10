@@ -1,0 +1,223 @@
+/*****//*****//*****//*****//*****/
+/*****//*****//*****//*****//*****/
+/**TRUIST LITE WEALTH ARTICLES**/
+/**CUSTOM CSS**/
+/*****//*****//*****//*****//*****/
+/*****//*****//*****//*****//*****/
+
+/*social*/
+.tmp__article--header--page-share {display: none;}
+.tmp__article--header--page-share--mobile .horizontal-desktop .pagesharing-icon1, 
+.tmp__article--header--page-share--mobile .horizontal-desktop .pagesharing-icon2, 
+.tmp__article--header--page-share--mobile .horizontal-desktop .pagesharing-icon3, 
+.tmp__article--header--page-share--mobile .horizontal-desktop .pagesharing-icon4 {width: 2.5rem; height: 2.5rem; margin: 0 3rem 0 0;}
+.tmp__article--header--page-share--mobile {margin-top: 2rem;}
+
+/*RESET GRID*/
+#main-grid .gridlayoutcontainer:not(#main-grid .gridlayoutcontainer .gridlayoutcontainer),
+#main-grid .experiencefragment,
+#main-grid .experiencefragment .gridlayoutcontainer:not(.tab .gridlayoutcontainer) {width: 100% !important; margin: 0% auto !important; float: none; clear: both; background: transparent;}
+.wealth-page.lite-page.article-page footer #footer-section-disclosure {margin-top: 0;}
+
+/*HEADER*/
+#gridLayout-subhead-container {margin: 6rem 4.167%;}
+#gridLayout-subhead-container > .aem-Grid > div {max-width: 88rem;}
+
+.article-title {color: #451E6A;}
+.article-title h1,
+.article-title h2,
+.article-title h3 {color: #451E6A; font-size: 4.8rem; line-height: 4.8rem; margin-bottom: 0;}
+.article-category-date p {color: #7C6992; line-height: 1em;}
+.article-category-date p strong {font-weight: 600; text-transform: uppercase;}
+
+.article-intro {font-size: 2.4rem; line-height: 2.8rem; font-weight: 300;}
+.article-intro p:first-child {margin-top: 3rem;}
+.article-intro p:not(.article-intro p:first-child) {margin-top: 2rem;}
+
+.article-profile-image img {border-radius: 100%; max-width: 6.5rem; display: none;}
+.article-profile-image img[*|src] {display: inline-block; margin-right: 2rem; margin-top: 3rem;}
+.article-profile-name p {font-size: 1.8rem; font-weight: 600; color: #2E1A47; margin-bottom: 0;}
+.article-profile-name p:first-child {margin-top: 3rem;}
+.article-profile-title p {margin-bottom: 0;}
+
+/*BODY*/
+.article-main-content {margin: 0;}
+.article-main-content > .aem-Grid  {margin-right: 4.167%; margin-left: 4.167%; width: auto; max-width: 88rem;}
+.article-main-content h2,
+.article-main-content h3,
+.article-main-content h4 {font-size: 2rem; line-height: 2.4rem; font-weight: 600; margin-top: 4rem;}
+.article-main-content .text h2:first-child,
+.article-main-content .text h3:first-child,
+.article-main-content .text h4:first-child {margin-top: 2rem;}
+.article-main-content .text:first-child h2:first-child,
+.article-main-content .text:first-child h3:first-child,
+.article-main-content .text:first-child h4:first-child {margin-top: 0;}
+
+/*GENERAL ARTICLE*/
+.article-hero-image {width: calc(100% - 4.167%); max-height: 24rem; overflow: hidden; border-radius: 0; border-bottom-right-radius: 3rem;}
+
+/*PDF*/
+#gridLayout-article-pdf-cta {margin: 0 4.167% 6rem;}
+
+/*VIDEO*/
+#gridLayout-subhead-content .text {width: 100% !important; margin-left: 0 !important; margin-right: 0 !important;}
+.tmp__article--video--container .tmp__article--transcript {margin-right: 4.167%; margin-left: 4.167%;}
+.article-video-embed {margin-top: 4rem;}
+.article-video-embed .w-chrome,
+.article-video-embed .wistia_swatch {border-radius: 1rem;}
+
+/*PODCAST*/
+.tmp__article--podcast--container {margin: 0 0 6rem;}
+.tmp__article--podcast--container > .aem-Grid  {margin-right: 4.167%; margin-left: 4.167%; width: auto; max-width: 88rem;}
+.tmp__article--podcast--component {}
+
+/*TRANSCRIPT*/
+.tmp__article--transcript {margin-top: 3rem;}
+.tmp__article--transcript--body {background: #f7f7f7; border-radius: 1rem; padding: 3rem;}
+
+/*BLOCKQUOTE*/
+.article-blockquote p {border-left: 8px solid #7C6992; padding: 1.5rem 1.5rem 1.5rem 3rem; font-size: 2.8rem; line-height: 3.4rem; font-weight: 300; color: #2E1A47; font-style: italic; margin-bottom: 0;}
+
+/*FIND ADVISOR*/
+.wealth-page.lite-page.article-page .findanadvisor {padding: 3rem 4.167%}
+.wealth-page.lite-page.article-page .people-heading-container h2 {margin-bottom: 3rem;}
+.wealth-page.lite-page.article-page .people-heading-container p {margin-bottom: 2rem;}
+.wealth-page.lite-page.article-page #gridLayout-find-an-advisor {background: #2E1A47; margin-bottom: 6rem;}
+.wealth-page.lite-page.article-page .finder-search-bg {padding: 0;}
+
+/*RESOURCES*/
+#main-grid .experiencefragment:not(#gridLayout-find-an-advisor .experiencefragment),
+#main-grid > .aem-Grid > .responsivegrid > .aem-Grid > .gridlayoutcontainer:last-child > div > .aem-Grid > .gridlayoutcontainer {background-color: #f7f7f7; padding: 4rem 4.167% 12rem; margin-left: 0 !important; width: 100% !important;}
+
+/*RESPONSIVE*/
+@media (min-width: 769px){
+    .tmp__article--header {position: relative;}
+    .tmp__article--header,
+    .tmp__article--header > .aem-Grid {margin: 10rem 8.3333% 8rem; width: auto;}
+    .tmp__article--header > .aem-Grid > .gridlayoutcontainer:first-child {position: absolute; top: 0; left: 0; max-width: 4.167%;}
+
+    /*HEADER*/
+    #gridLayout-subhead-container,
+    #gridLayout-subhead-container > .aem-Grid {margin: 10rem 8.3333% 8rem; width: auto;}
+
+    .article-title h1,
+    .article-title h2,
+    .article-title h3 {font-size: 6rem; line-height: 6.6rem;}
+
+    .article-intro {font-size: 2.8rem; line-height: 3.2rem;}
+
+    .article-profile-name {font-size: 2rem;}
+
+    /*social*/
+    .tmp__article--header--page-share .vertical-desktop {top: .5rem; left: auto;}
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon1, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon2, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon3, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon4 {width: 1.8rem; height: 1.8rem; margin: 0 0 3rem;}
+    .tmp__article--header--page-share .vertical-desktop.sticky-social {top: 15px; left: auto;}
+    .tmp__article--header--page-share--mobile {display: none;}
+    .tmp__article--header--page-share {display: block;}
+
+    /*BODY*/
+    .article-main-content,
+    .article-main-content > .aem-Grid {margin: 0 8.333%; width: auto;}
+    .article-main-content h2,
+    .article-main-content h3,
+    .article-main-content h4 {font-size: 2.4rem; line-height: 3rem; margin-top: 6rem;}
+    .article-main-content .text h2:first-child,
+    .article-main-content .text h3:first-child,
+    .article-main-content .text h4:first-child {margin-top: 4rem;}
+
+    /*GENERAL ARTICLE*/
+    .article-hero-image {max-height: 60rem; border-bottom-right-radius: 4rem;}
+
+    /*PDF*/
+    #gridLayout-article-pdf-cta, 
+    #gridLayout-article-pdf-cta > .aem-Grid {margin: 0 8.333% 10rem; width: auto;}
+    #gridLayout-article-pdf-cta .cta {width: auto !important; display: inline-block !important; margin-left: 0 !important;}
+    #gridLayout-article-pdf-cta .cta:first-child {margin-right: 2rem !important;}
+
+    /*VIDEO*/
+    .tmp__article--video--component,
+    .tmp__article--video--container .tmp__article--transcript {margin-right: 8.333%; margin-left: 8.333%;}
+    .article-video-embed {margin-top: 6rem;}
+    .article-video-embed .w-chrome,
+    .article-video-embed .wistia_swatch {border-radius: 1rem;}
+
+    /*PODCAST*/
+    .tmp__article--podcast--container,
+    .tmp__article--podcast--container > .aem-Grid  {margin: 0 8.333% 10rem; width: auto;}
+
+    /*BLOCKQUOTE*/
+    .article-blockquote p {padding: 3rem;}
+
+    /*FIND ADVISOR*/
+    .wealth-page.lite-page.article-page .findanadvisor {padding: 5rem 8.333% 6rem;}
+    .wealth-page.lite-page.article-page #gridLayout-find-an-advisor {margin-bottom: 10rem;}
+
+    /*RESOURCES*/
+    #main-grid .experiencefragment:not(#gridLayout-find-an-advisor .experiencefragment),
+    #main-grid > .aem-Grid > .responsivegrid > .aem-Grid > .gridlayoutcontainer:last-child > div > .aem-Grid > .gridlayoutcontainer {margin: 0 8.333% 20rem !important; border-radius: 2rem; padding: 0; width: auto !important;}
+    #main-grid .experiencefragment:not(#gridLayout-find-an-advisor .experiencefragment) > .aem-Grid,
+    #main-grid > .aem-Grid > .responsivegrid > .aem-Grid > .gridlayoutcontainer:last-child > div > .aem-Grid > .gridlayoutcontainer > div > .aem-Grid {padding: 6rem 8.333%;}
+}
+@media only screen and (min-device-width: 360px) and (max-device-width: 896px){
+    .tmp__article--header--page-share .cmp-pagesharing,
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon1, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon2, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon3, 
+    .tmp__article--header--page-share .vertical-desktop .pagesharing-icon4 {display: block;}
+}
+
+
+
+
+/*tab for research & insights*/
+.tab-custom-bottom .r-tabs .r-tabs-nav {margin: 0 0 4rem;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab.r-tabs-state-active {background-color: transparent; border-bottom: 2px solid #2e1a47;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab {border: 0; background-color: transparent;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab .r-tabs-anchor {font-size: 2.2rem; background-color: transparent !important; padding: .5rem 0;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab:first-child {border-radius: 0;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab.r-tabs-state-active .r-tabs-anchor {color: #2e1a47; background-color: transparent !important /*hack*/; font-weight: 600;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab:last-child {border-right: 0; border-radius: 0; margin-left: 2rem;}
+.tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab .r-tabs-anchor:hover {background-color: transparent !important; color: #2e1a47; border-bottom: 2px solid;}
+/*perspective pseudo cards*/
+.r-tabs-panel .gridlayoutcontainer.margin__top--sm {margin-top: 0;}
+.wealth-pseudo-cards .bg-midnight-purple {padding: 2rem; transition: transform 0.2s; border-radius: .4rem; margin-bottom: 2rem;}
+.wealth-pseudo-cards .bg-midnight-purple:hover {transform: scale(1.05);}
+.wealth-pseudo-cards .bg-midnight-purple h3 {color: #fff; font-size: 1.8rem; line-height: 2.4rem; font-weight: 600; margin-bottom: 1rem;
+    overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;}
+.wealth-pseudo-cards .bg-midnight-purple .text:nth-child(3) p {color: #fff; font-size: 1.4rem; line-height: 2rem;
+    overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;}
+.wealth-pseudo-cards .bg-midnight-purple .text:nth-child(1) p {color: #B0E0E2; font-size: 1.8rem; line-height: 2.4rem; margin-bottom: 3rem;}
+.wealth-pseudo-cards .bg-midnight-purple .text:nth-child(4) p,
+.wealth-pseudo-cards .bg-midnight-purple .text:nth-child(5) p {color: #B0E0E2; font-size: 1.6rem; line-height: 2.2rem; font-weight: 400; margin-bottom: 0;}
+
+.wealth-pseudo-cards .pseudo-right-rail {transition: transform 0.2s;}
+.wealth-pseudo-cards .pseudo-right-rail:hover {transform: scale(1.05);}
+.wealth-pseudo-cards .pseudo-right-rail .text:first-child p {color: #7c6992; font-size: 1.8rem; line-height: 2.4rem; margin-bottom: .5rem; font-weight: 600;}
+.wealth-pseudo-cards .pseudo-right-rail h3 {margin-bottom: 2rem;}
+.wealth-pseudo-cards .pseudo-right-rail .text:last-child p {font-size: 1.6rem; line-height: 2.2rem; font-weight: 400; margin-bottom: 0;}
+/*pseudo cards - right rail*/
+.pseudo-right-rail {}
+@media (max-width: 768px) {
+    .tab-custom-bottom .r-tabs .r-tabs-accordion-title {display: none;}
+    .tab-custom-bottom .r-tabs .r-tabs-nav {display: inline-flex;}
+    .tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab .r-tabs-anchor {font-size: 1.8rem; background-color: transparent !important; padding: .5rem 0;}
+    .tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab:last-child {border-right: 0; border-radius: 0;  margin-left: 1.5rem;}
+    .tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab .r-tabs-anchor {color: #7C6992;}
+    .tab-custom-bottom .r-tabs .r-tabs-nav .r-tabs-tab:first-child {border-radius: 0;}
+}
+@media (min-width: 769px) {
+    /*wealth pseudo cards*/
+    .wealth-pseudo-cards > .aem-Grid {display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 4rem; margin: 0;}
+    .wealth-pseudo-cards > .aem-Grid::after,
+    .wealth-pseudo-cards > .aem-Grid::before {display: none;}
+    .wealth-pseudo-cards > .aem-Grid > .gridlayoutcontainer {width: 100% !important; margin: 0 0 2rem 0 !important;}
+    .wealth-pseudo-cards .bg-midnight-purple .text:nth-child(3) p {font-size: 1.8rem; line-height: 2.4rem; margin-bottom: 5rem;}
+    .wealth-pseudo-cards .bg-midnight-purple .text:nth-child(1) p {font-size: 2rem; line-height: 2.6rem;}
+    .wealth-pseudo-cards .bg-midnight-purple h3 {font-size: 2.4rem; line-height: 3rem;}
+    .wealth-pseudo-cards .bg-midnight-purple .text:nth-child(4) p,
+    .wealth-pseudo-cards .bg-midnight-purple .text:nth-child(5) p {font-size: 2rem; line-height: 2.6rem;}
+}
+

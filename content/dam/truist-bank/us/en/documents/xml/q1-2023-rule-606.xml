@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<heldOrderRoutingPublicReport>
+    <version>1.2</version>
+    <bd>TRUIST INVESTMENT SERVICES INC</bd>
+    <year>2023</year>
+    <qtr>01</qtr>
+    <timestamp>2023-04-07T08:57:59Z</timestamp>
+    <rMonthly>
+        <year>2023</year>
+        <mon>01</mon>
+        <rSP500>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>97.84</ndoMarketPct>
+            <ndoMarketableLimitPct>0.21</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>1.69</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.26</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>30.10</orderPct>
+                    <marketPct>36.38</marketPct>
+                    <marketableLimitPct>33.94</marketableLimitPct>
+                    <nonMarketableLimitPct>6.46</nonMarketableLimitPct>
+                    <otherPct>0.92</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>22.44</orderPct>
+                    <marketPct>27.26</marketPct>
+                    <marketableLimitPct>23.85</marketableLimitPct>
+                    <nonMarketableLimitPct>3.53</nonMarketableLimitPct>
+                    <otherPct>0.37</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>20.11</orderPct>
+                    <marketPct>24.50</marketPct>
+                    <marketableLimitPct>25.69</marketableLimitPct>
+                    <nonMarketableLimitPct>2.08</nonMarketableLimitPct>
+                    <otherPct>0.26</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>12.82</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>97.32</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>7.29</orderPct>
+                    <marketPct>8.89</marketPct>
+                    <marketableLimitPct>5.50</marketableLimitPct>
+                    <nonMarketableLimitPct>0.97</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>2.20</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>5.50</marketableLimitPct>
+                    <nonMarketableLimitPct>40.82</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.97</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.92</marketableLimitPct>
+                    <nonMarketableLimitPct>36.56</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>StoneX Financial INC.</name>
+                    <mic>INTL</mic>
+                    <orderPct>0.98</orderPct>
+                    <marketPct>1.20</marketPct>
+                    <marketableLimitPct>2.75</marketableLimitPct>
+                    <nonMarketableLimitPct>0.03</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.98</orderPct>
+                    <marketPct>1.19</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.15</nonMarketableLimitPct>
+                    <otherPct>0.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>UBS Securities, LLC</name>
+                    <mic>UBSS</mic>
+                    <orderPct>0.48</orderPct>
+                    <marketPct>0.56</marketPct>
+                    <marketableLimitPct>1.83</marketableLimitPct>
+                    <nonMarketableLimitPct>0.18</nonMarketableLimitPct>
+                    <otherPct>0.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>95.88</ndoMarketPct>
+            <ndoMarketableLimitPct>0.76</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>2.90</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.46</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>26.00</orderPct>
+                    <marketPct>36.34</marketPct>
+                    <marketableLimitPct>35.79</marketableLimitPct>
+                    <nonMarketableLimitPct>3.59</nonMarketableLimitPct>
+                    <otherPct>0.81</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>21.01</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>96.11</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>19.40</orderPct>
+                    <marketPct>27.30</marketPct>
+                    <marketableLimitPct>23.35</marketableLimitPct>
+                    <nonMarketableLimitPct>1.93</nonMarketableLimitPct>
+                    <otherPct>0.35</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>17.59</orderPct>
+                    <marketPct>24.76</marketPct>
+                    <marketableLimitPct>26.14</marketableLimitPct>
+                    <nonMarketableLimitPct>1.52</nonMarketableLimitPct>
+                    <otherPct>0.25</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>6.27</orderPct>
+                    <marketPct>8.84</marketPct>
+                    <marketableLimitPct>8.12</marketableLimitPct>
+                    <nonMarketableLimitPct>0.72</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>1.90</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>3.30</marketableLimitPct>
+                    <nonMarketableLimitPct>23.97</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.34</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.51</marketableLimitPct>
+                    <nonMarketableLimitPct>17.08</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX U.S. Equities Exchange</name>
+                    <mic>BATS</mic>
+                    <orderPct>1.34</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>17.06</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>1.26</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>16.03</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca</name>
+                    <mic>ARCA</mic>
+                    <orderPct>1.04</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.51</marketableLimitPct>
+                    <nonMarketableLimitPct>13.27</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>27.67</ndoMarketPct>
+            <ndoMarketableLimitPct>8.13</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>49.53</ndoNonmarketableLimitPct>
+            <ndoOtherPct>14.67</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>37.04</orderPct>
+                    <marketPct>50.91</marketPct>
+                    <marketableLimitPct>48.59</marketableLimitPct>
+                    <nonMarketableLimitPct>37.35</nonMarketableLimitPct>
+                    <otherPct>14.98</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>21.83</orderPct>
+                    <marketPct>4.56</marketPct>
+                    <marketableLimitPct>5.22</marketableLimitPct>
+                    <nonMarketableLimitPct>37.81</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>13.94</orderPct>
+                    <marketPct>9.90</marketPct>
+                    <marketableLimitPct>11.24</marketableLimitPct>
+                    <nonMarketableLimitPct>19.19</nonMarketableLimitPct>
+                    <otherPct>3.74</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>11.81</orderPct>
+                    <marketPct>30.47</marketPct>
+                    <marketableLimitPct>30.12</marketableLimitPct>
+                    <nonMarketableLimitPct>1.63</nonMarketableLimitPct>
+                    <otherPct>13.57</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>5.02</orderPct>
+                    <marketPct>4.17</marketPct>
+                    <marketableLimitPct>4.82</marketableLimitPct>
+                    <nonMarketableLimitPct>4.02</nonMarketableLimitPct>
+                    <otherPct>9.20</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>3.70</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>20.90</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>2.82</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>15.91</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>2.59</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>14.66</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>1.24</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>7.02</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2023</year>
+        <mon>02</mon>
+        <rSP500>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>97.85</ndoMarketPct>
+            <ndoMarketableLimitPct>0.22</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>1.62</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.31</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>30.72</orderPct>
+                    <marketPct>36.99</marketPct>
+                    <marketableLimitPct>41.94</marketableLimitPct>
+                    <nonMarketableLimitPct>7.48</nonMarketableLimitPct>
+                    <otherPct>0.87</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>22.29</orderPct>
+                    <marketPct>26.99</marketPct>
+                    <marketableLimitPct>16.13</marketableLimitPct>
+                    <nonMarketableLimitPct>3.90</nonMarketableLimitPct>
+                    <otherPct>0.44</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>20.57</orderPct>
+                    <marketPct>24.93</marketPct>
+                    <marketableLimitPct>21.77</marketableLimitPct>
+                    <nonMarketableLimitPct>2.92</nonMarketableLimitPct>
+                    <otherPct>0.36</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>13.53</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>97.36</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>7.11</orderPct>
+                    <marketPct>8.61</marketPct>
+                    <marketableLimitPct>10.48</marketableLimitPct>
+                    <nonMarketableLimitPct>1.44</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.67</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.61</marketableLimitPct>
+                    <nonMarketableLimitPct>38.96</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>1.33</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>4.03</marketableLimitPct>
+                    <nonMarketableLimitPct>30.89</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.82</orderPct>
+                    <marketPct>0.98</marketPct>
+                    <marketableLimitPct>0.81</marketableLimitPct>
+                    <nonMarketableLimitPct>0.23</nonMarketableLimitPct>
+                    <otherPct>0.07</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>StoneX Financial INC.</name>
+                    <mic>INTL</mic>
+                    <orderPct>0.79</orderPct>
+                    <marketPct>0.96</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.12</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>UBS Securities, LLC</name>
+                    <mic>UBSS</mic>
+                    <orderPct>0.46</orderPct>
+                    <marketPct>0.54</marketPct>
+                    <marketableLimitPct>1.61</marketableLimitPct>
+                    <nonMarketableLimitPct>0.16</nonMarketableLimitPct>
+                    <otherPct>0.05</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>95.93</ndoMarketPct>
+            <ndoMarketableLimitPct>0.70</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>2.91</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.46</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>26.71</orderPct>
+                    <marketPct>37.22</marketPct>
+                    <marketableLimitPct>35.92</marketableLimitPct>
+                    <nonMarketableLimitPct>5.28</nonMarketableLimitPct>
+                    <otherPct>0.77</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>21.39</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>95.64</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>19.36</orderPct>
+                    <marketPct>27.27</marketPct>
+                    <marketableLimitPct>26.72</marketableLimitPct>
+                    <nonMarketableLimitPct>1.58</nonMarketableLimitPct>
+                    <otherPct>0.37</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>17.47</orderPct>
+                    <marketPct>24.69</marketPct>
+                    <marketableLimitPct>21.55</marketableLimitPct>
+                    <nonMarketableLimitPct>1.31</nonMarketableLimitPct>
+                    <otherPct>0.16</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>5.86</orderPct>
+                    <marketPct>8.25</marketPct>
+                    <marketableLimitPct>9.20</marketableLimitPct>
+                    <nonMarketableLimitPct>0.70</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>2.10</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.44</marketableLimitPct>
+                    <nonMarketableLimitPct>28.31</nonMarketableLimitPct>
+                    <otherPct>0.03</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca</name>
+                    <mic>ARCA</mic>
+                    <orderPct>1.35</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.29</marketableLimitPct>
+                    <nonMarketableLimitPct>18.22</nonMarketableLimitPct>
+                    <otherPct>0.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.24</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.29</marketableLimitPct>
+                    <nonMarketableLimitPct>16.78</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>1.10</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.29</marketableLimitPct>
+                    <nonMarketableLimitPct>14.92</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.78</orderPct>
+                    <marketPct>1.08</marketPct>
+                    <marketableLimitPct>0.57</marketableLimitPct>
+                    <nonMarketableLimitPct>0.12</nonMarketableLimitPct>
+                    <otherPct>0.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>24.88</ndoMarketPct>
+            <ndoMarketableLimitPct>7.01</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>51.45</ndoNonmarketableLimitPct>
+            <ndoOtherPct>16.65</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>30.76</orderPct>
+                    <marketPct>49.10</marketPct>
+                    <marketableLimitPct>43.84</marketableLimitPct>
+                    <nonMarketableLimitPct>33.63</nonMarketableLimitPct>
+                    <otherPct>8.01</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>23.41</orderPct>
+                    <marketPct>2.24</marketPct>
+                    <marketableLimitPct>3.65</marketableLimitPct>
+                    <nonMarketableLimitPct>40.95</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>14.76</orderPct>
+                    <marketPct>13.43</marketPct>
+                    <marketableLimitPct>13.70</marketableLimitPct>
+                    <nonMarketableLimitPct>20.20</nonMarketableLimitPct>
+                    <otherPct>2.71</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>9.27</orderPct>
+                    <marketPct>30.75</marketPct>
+                    <marketableLimitPct>34.70</marketableLimitPct>
+                    <nonMarketableLimitPct>1.88</nonMarketableLimitPct>
+                    <otherPct>6.45</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>5.47</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>23.83</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>4.99</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>21.75</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>4.42</orderPct>
+                    <marketPct>4.48</marketPct>
+                    <marketableLimitPct>4.11</marketableLimitPct>
+                    <nonMarketableLimitPct>3.34</nonMarketableLimitPct>
+                    <otherPct>7.08</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>3.99</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>17.38</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>2.94</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>12.80</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+    <rMonthly>
+        <year>2023</year>
+        <mon>03</mon>
+        <rSP500>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>97.99</ndoMarketPct>
+            <ndoMarketableLimitPct>0.19</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>1.56</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.27</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>29.46</orderPct>
+                    <marketPct>35.45</marketPct>
+                    <marketableLimitPct>28.95</marketableLimitPct>
+                    <nonMarketableLimitPct>8.72</nonMarketableLimitPct>
+                    <otherPct>0.90</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>24.28</orderPct>
+                    <marketPct>29.36</marketPct>
+                    <marketableLimitPct>29.82</marketableLimitPct>
+                    <nonMarketableLimitPct>5.47</nonMarketableLimitPct>
+                    <otherPct>0.34</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>19.64</orderPct>
+                    <marketPct>23.86</marketPct>
+                    <marketableLimitPct>14.91</marketableLimitPct>
+                    <nonMarketableLimitPct>2.62</nonMarketableLimitPct>
+                    <otherPct>0.20</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>13.96</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>97.33</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>7.27</orderPct>
+                    <marketPct>8.82</marketPct>
+                    <marketableLimitPct>13.16</marketableLimitPct>
+                    <nonMarketableLimitPct>1.27</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.64</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>8.77</marketableLimitPct>
+                    <nonMarketableLimitPct>42.46</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>0.97</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.88</marketableLimitPct>
+                    <nonMarketableLimitPct>25.31</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.88</orderPct>
+                    <marketPct>1.06</marketPct>
+                    <marketableLimitPct>1.75</marketableLimitPct>
+                    <nonMarketableLimitPct>0.07</nonMarketableLimitPct>
+                    <otherPct>0.04</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>StoneX Financial INC.</name>
+                    <mic>INTL</mic>
+                    <orderPct>0.69</orderPct>
+                    <marketPct>0.84</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>UBS Securities, LLC</name>
+                    <mic>UBSS</mic>
+                    <orderPct>0.50</orderPct>
+                    <marketPct>0.60</marketPct>
+                    <marketableLimitPct>1.75</marketableLimitPct>
+                    <nonMarketableLimitPct>0.04</nonMarketableLimitPct>
+                    <otherPct>0.07</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rSP500>
+        <rOtherStocks>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>95.78</ndoMarketPct>
+            <ndoMarketableLimitPct>0.65</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>3.14</ndoNonmarketableLimitPct>
+            <ndoOtherPct>0.43</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>25.65</orderPct>
+                    <marketPct>35.09</marketPct>
+                    <marketableLimitPct>33.92</marketableLimitPct>
+                    <nonMarketableLimitPct>7.05</nonMarketableLimitPct>
+                    <otherPct>0.76</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>National Financial Services LLC</name>
+                    <mic>XSTM</mic>
+                    <orderPct>21.95</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>96.06</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>Truist Investment Services, Inc. (TIS) routes all "non-directed orders" to National Financial Services LLC (NFS) pursuant to a fully disclosed clearing agreement; Per agreement with NFS, TIS receives no payment for order flow.  The order routing information contained in this report is provided by NFS</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>VIRTU Americas, LLC</name>
+                    <mic>NITE</mic>
+                    <orderPct>21.58</orderPct>
+                    <marketPct>29.79</marketPct>
+                    <marketableLimitPct>29.79</marketableLimitPct>
+                    <nonMarketableLimitPct>4.06</nonMarketableLimitPct>
+                    <otherPct>0.26</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>G1 Execution Services, LLC</name>
+                    <mic>ETMM</mic>
+                    <orderPct>17.28</orderPct>
+                    <marketPct>23.95</marketPct>
+                    <marketableLimitPct>23.30</marketableLimitPct>
+                    <nonMarketableLimitPct>1.85</nonMarketableLimitPct>
+                    <otherPct>0.26</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Jane Street Capital, LLC</name>
+                    <mic>JNST</mic>
+                    <orderPct>6.38</orderPct>
+                    <marketPct>8.85</marketPct>
+                    <marketableLimitPct>9.44</marketableLimitPct>
+                    <nonMarketableLimitPct>0.94</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Execution Services, LLC</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>1.63</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>1.18</marketableLimitPct>
+                    <nonMarketableLimitPct>28.46</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe EDGX US Equities Exchange</name>
+                    <mic>EDGX</mic>
+                    <orderPct>1.03</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>18.13</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>New York Stock Exchange</name>
+                    <mic>NYSE</mic>
+                    <orderPct>1.00</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>17.61</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Two Sigma Securities, LLC</name>
+                    <mic>SOHO</mic>
+                    <orderPct>0.74</orderPct>
+                    <marketPct>1.00</marketPct>
+                    <marketableLimitPct>0.88</marketableLimitPct>
+                    <nonMarketableLimitPct>0.15</nonMarketableLimitPct>
+                    <otherPct>0.09</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Instinet BlockCross</name>
+                    <mic>BLKX</mic>
+                    <orderPct>0.60</orderPct>
+                    <marketPct>0.03</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>2.55</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOtherStocks>
+        <rOptions>
+            <ndoPct>100.00</ndoPct>
+            <ndoMarketPct>29.19</ndoMarketPct>
+            <ndoMarketableLimitPct>8.58</ndoMarketableLimitPct>
+            <ndoNonmarketableLimitPct>45.45</ndoNonmarketableLimitPct>
+            <ndoOtherPct>16.79</ndoOtherPct>
+            <rVenues>
+                <rVenue>
+                    <name>Citadel Securities LLC</name>
+                    <mic>CDRG</mic>
+                    <orderPct>33.66</orderPct>
+                    <marketPct>52.33</marketPct>
+                    <marketableLimitPct>50.00</marketableLimitPct>
+                    <nonMarketableLimitPct>38.39</nonMarketableLimitPct>
+                    <otherPct>6.26</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Wolverine Execution Services LLC</name>
+                    <mic>WEXX</mic>
+                    <orderPct>17.12</orderPct>
+                    <marketPct>3.38</marketPct>
+                    <marketableLimitPct>4.26</marketableLimitPct>
+                    <nonMarketableLimitPct>34.01</nonMarketableLimitPct>
+                    <otherPct>0.00</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Dash Financial Technologies LLC</name>
+                    <mic>DASH</mic>
+                    <orderPct>12.56</orderPct>
+                    <marketPct>11.42</marketPct>
+                    <marketableLimitPct>11.35</marketableLimitPct>
+                    <nonMarketableLimitPct>19.29</nonMarketableLimitPct>
+                    <otherPct>1.36</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Susquehanna Capital Group</name>
+                    <mic>SUSQ</mic>
+                    <orderPct>10.29</orderPct>
+                    <marketPct>28.79</marketPct>
+                    <marketableLimitPct>30.14</marketableLimitPct>
+                    <nonMarketableLimitPct>3.59</nonMarketableLimitPct>
+                    <otherPct>3.17</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NYSE Arca Options</name>
+                    <mic>ARCA</mic>
+                    <orderPct>6.81</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>26.38</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Morgan Stanley &amp; Company LLC</name>
+                    <mic>MSCO</mic>
+                    <orderPct>6.04</orderPct>
+                    <marketPct>4.08</marketPct>
+                    <marketableLimitPct>4.26</marketableLimitPct>
+                    <nonMarketableLimitPct>4.72</nonMarketableLimitPct>
+                    <otherPct>10.43</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>NASDAQ Options Market</name>
+                    <mic>NSDQ</mic>
+                    <orderPct>5.64</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>21.85</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe BZX Options Exchange, Inc.</name>
+                    <mic>BATS</mic>
+                    <orderPct>4.33</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>16.77</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+                <rVenue>
+                    <name>Cboe Options Exchange</name>
+                    <mic>CBOE</mic>
+                    <orderPct>3.56</orderPct>
+                    <marketPct>0.00</marketPct>
+                    <marketableLimitPct>0.00</marketableLimitPct>
+                    <nonMarketableLimitPct>0.00</nonMarketableLimitPct>
+                    <otherPct>13.78</otherPct>
+                    <netPmtPaidRecvMarketOrdersUsd>0</netPmtPaidRecvMarketOrdersUsd>
+                    <netPmtPaidRecvMarketOrdersCph>0.0000</netPmtPaidRecvMarketOrdersCph>
+                    <netPmtPaidRecvMarketableLimitOrdersUsd>0</netPmtPaidRecvMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvMarketableLimitOrdersCph>0.0000</netPmtPaidRecvMarketableLimitOrdersCph>
+                    <netPmtPaidRecvNonMarketableLimitOrdersUsd>0</netPmtPaidRecvNonMarketableLimitOrdersUsd>
+                    <netPmtPaidRecvNonMarketableLimitOrdersCph>0.0000</netPmtPaidRecvNonMarketableLimitOrdersCph>
+                    <netPmtPaidRecvOtherOrdersUsd>0</netPmtPaidRecvOtherOrdersUsd>
+                    <netPmtPaidRecvOtherOrdersCph>0.0000</netPmtPaidRecvOtherOrdersCph>
+                    <materialAspects>[Insert discussion of the material aspects of the relationship with this venue pursuant to rule 606(a)(1)(iv).]</materialAspects>
+                </rVenue>
+            </rVenues>
+        </rOptions>
+    </rMonthly>
+</heldOrderRoutingPublicReport>

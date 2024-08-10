@@ -1,0 +1,6 @@
+.global-cta-btn {margin-top: 0;}
+.global-cta-btn a, .btn-primary, .cta a.component--bg-color--dark, .component--bg-color--light .cta a {margin-top: 0;}
+
+@media (max-width: 767.98px) {
+.cta .global-cta-btn a, .cta .btn {display: inline-block;}
+}
