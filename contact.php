@@ -107,7 +107,7 @@ include('header.php')
 							<img src="assets/images/icon/need-help-2.png" alt="icon">
 						</div>
 						<h5>Help & Support</h5>
-						<p>support@garantrust.com</p>
+						<p>support@Truisthill.com</p>
 					</div>
 				</div>
 			</div>
@@ -148,7 +148,7 @@ include('header.php')
 					<div class="inner-box">
 						<div class="icon-box"><i class="icon-43"></i></div>
 						<h3>Email Address</h3>
-						<p><a href="mailto:supprot@garantrust.com">support@garantrust.com</a><br> <a href="mailto:support@garantrust.com">support@garantrust.com</a></p>
+						<p><a href="mailto:supprot@Truisthill.com">support@Truisthill.com</a><br> <a href="mailto:support@Truisthill.com">support@Truisthill.com</a></p>
 					</div>
 				</div>
 			</div>

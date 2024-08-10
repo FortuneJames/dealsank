@@ -75,8 +75,8 @@
              <div class="row clearfix">
                  <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
                      <div class="footer-widget logo-widget">
-                         <p>Making the world a better place through constructing elegant hierarchies. Innovations enabled by the TREASURY Private Pacificc Bank results in products that assist workers.</p>
-                        
+                         <p>establishing graceful hierarchies to improve the world. Products that support employees are the result of innovations made possible by TREASURY Private Pacificc Bank..</p>
+
                      </div>
                  </div>
                  <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
@@ -126,7 +126,7 @@
      <div class="footer-bottom centred">
          <div class="auto-container">
              <div class="copyright">
-                 <p>Copyright 2023 by <a href="index.php">Garantrust</a>. All Right Reserved.</p>
+                 <p>Copyright 2023 by <a href="index.php">Trusthill</a>. All Right Reserved.</p>
              </div>
          </div>
      </div>
@@ -169,7 +169,6 @@
  <script src="assets/js/script.js"></script>
 
  <!-- tidio -->
- <script src="//code.tidio.co/obhvelmrkys3ei4lkg4uhb1uallrfymz.js" async></script>
  </body><!-- End of .page_wrapper -->
 
  </html>

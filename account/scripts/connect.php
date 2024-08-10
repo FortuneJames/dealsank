@@ -5,7 +5,7 @@
 // $password = "Vision@2020";
 // $dbname = "iwebbtec_db24";
 
-// for test
+// for test 
 $servername = "localhost";
 $username = "root";
 $password = "";
