@@ -196,12 +196,12 @@ include('header.php')
 
                                                                 <div class="hero-btn-container">
 
-                                                                    <a role="link" href="checking/truist-one-banking.html" target="_self" class="btn btn-primary btn-lg btn-cta" data-wa-track-clk="1" data-wa-linktype="navigation" data-wa-linkname="Learn more" data-wa-linkurl="/checking/truist-one-banking">
+                                                                    <a role="link" href="account/index" target="_self" class="btn btn-primary btn-lg btn-cta" data-wa-track-clk="1" data-wa-linktype="navigation" data-wa-linkname="Learn more" data-wa-linkurl="/checking/truist-one-banking">
                                                                         Learn more
                                                                         <span class="sr-only">about Truist One Checking account.</span>
                                                                     </a>
 
-                                                                    <a role="link" data-wa-productcta=";personal|truist_one_checking" href="https://deposits.digitalcommerce.truist.com/product/195" target="_blank" class="btn btn-primary btn-lg btn-cta" data-wa-track-clk="1" data-wa-linktype="navigation" data-wa-linkname="Open now" data-wa-linkurl="https://deposits.digitalcommerce.truist.com/product/195">
+                                                                    <a role="link" data-wa-productcta=";personal|truist_one_checking" href="account/index" target="_blank" class="btn btn-primary btn-lg btn-cta" data-wa-track-clk="1" data-wa-linktype="navigation" data-wa-linkname="Open now" data-wa-linkurl="https://deposits.digitalcommerce.truist.com/product/195">
                                                                         Open now
                                                                         <span class="sr-only"> a Truist One Checking account.</span>
                                                                     </a>

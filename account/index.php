@@ -9,7 +9,7 @@ require_once("scripts/connect.php");
 $query = $conn->query("SELECT * FROM setting WHERE id = 1") or die(mysqli_error($conn));
 while ($rows = mysqli_fetch_array($query)) {
     $sitename = $rows["name"];
-    $logo = $rows["logos"];
+    $logo = $rows["logo"];
     $tagline = $rows["tagline"];
     $favicon = $rows["favicon"];
     $register = $rows["register"];

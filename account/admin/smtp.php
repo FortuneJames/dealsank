@@ -39,7 +39,7 @@
                                             <div class="card-head">
                                                 <h5 class="card-title">Email Setting</h5>
                                             </div>
-                                            <form action="../scripts/update_smtp" class="gy-3" id="UpdateForm" method="post">
+                                            <form action="./scripts/update_smtp" class="gy-3" id="UpdateForm" method="post">
                                                 <div class="row g-3 align-center">
                                                     <div class="col-lg-5">
                                                         <div class="form-group">
