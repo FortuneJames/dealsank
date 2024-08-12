@@ -109,7 +109,6 @@
                 <li><a href="./career-details.html">Career details</a></li>
                 <li><a href="./price.html">Pricing</a></li>
                 <li><a href="./account/index">Register</a></li>
-                <li><a href="./coming-soon.html">Coming soon</a></li>
               </ul>
             </li>
           </ul>

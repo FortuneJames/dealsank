@@ -12,7 +12,7 @@ include("../scripts/userdata.php");
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="<?php echo $description ?>">
     <!-- Fav Icon  -->
-    <link rel="shortcut icon" href="../../images/logoblack1.png">
+    <link rel="shortcut icon" href="./fe/img/logo.png">
     <!-- Page Title  -->
     <title><?php echo "$firstname $lastname $middlename"; ?> | <?php echo $sitename ?> Online banking</title>
     <!-- StyleSheets  -->
@@ -68,8 +68,8 @@ include("../scripts/userdata.php");
                 <div class="nk-sidebar-element nk-sidebar-head" style="border-bottom: solid #fe473a;">
                     <div class="nk-sidebar-brand">
                         <a href="dashboard" class="logo-link nk-sidebar-logo">
-                            <img class="logo-light logo-img" src="../../images/gt-4.png" alt="logo">
-                            <img class="logo-light logo-img" src="../../images/gt-4.png" alt="logo">
+                            <img class="logo-light logo-img" src="./fe/img/logo.png" alt="logo">
+                            <img class="logo-light logo-img" src="./fe/img/logo.png" alt="logo">
 
                         </a>
                     </div>
@@ -319,8 +319,8 @@ include("../scripts/userdata.php");
                             </div>
                             <div class="nk-header-brand d-xl-none">
                                 <a href="#" class="logo-link">
-                                    <img class="logo-light logo-img" src="../../images/gt-4.png" alt="logo">
-                                    <img class="logo-light logo-img" src="../../images/gt-4.png" alt="logo">
+                                    <img class="logo-light logo-img" src="./fe/img/logo.png" alt="logo">
+                                    <img class="logo-light logo-img" src="./fe/img/logo.png" alt="logo">
 
                                 </a>
                             </div>
