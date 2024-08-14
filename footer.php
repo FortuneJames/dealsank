@@ -111,6 +111,14 @@
         s0.parentNode.insertBefore(s1, s0);
       })();
     </script>
+     <script>
+      // Simulate loading time
+      window.addEventListener("load", function () {
+        setTimeout(function () {
+          document.getElementById("preloader").style.display = "none";
+        }, 3000); // Adjust the time to match your loading duration
+      });
+    </script>
     <!--End of Tawk.to Script-->
   </body>
 </html>

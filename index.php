@@ -17,7 +17,7 @@ include('header.php')
                             Explore the Future: Welcome to
                         </div>
                         <h1 class="mil-display mil-light mil-mb-60">
-                            Our Online Platform
+                            Our Online Banking Platform
                         </h1>
                         <div class="mil-buttons-frame">
                             <a href="./account/index" class="mil-btn mil-md mil-add-arrow">Check balances</a>
@@ -51,7 +51,7 @@ include('header.php')
                             Simplified cash Operations
                         </h2>
                         <p class="mil-text-l mil-pale-2 mil-up mil-mb-60">
-                            We have designed our online funding platform so that you can
+                            We have designed our online banking platform so that you can
                             carry out your operations easily and safely. From checking
                             balances to making payments and transfers, everything is at
                             your fingertips.
@@ -366,7 +366,7 @@ include('header.php')
                                                 fill="#F27457" />
                                         </svg>
                                         <p class="mil-text-l mil-mb-60 mil-up mil-light">
-                                            Vallfield is not just a payments platform, it is a
+                                            Vallfield is not just a Banking platform, it is a
                                             comprehensive solution. The global network, security
                                             and variety of options make Vallfield my number one
                                             option for all my quisque rutrum transactions.
@@ -400,7 +400,7 @@ include('header.php')
                                                 fill="#03A6A6" />
                                         </svg>
                                         <p class="mil-text-l mil-mb-60 mil-up mil-light">
-                                            Vallfield is not just a payments platform, it is a
+                                            Vallfield is not just a banking platform, it is a
                                             comprehensive solution. The global network, security
                                             and variety of options make Vallfield my number one
                                             option for all my quisque rutrum transactions.
@@ -434,7 +434,7 @@ include('header.php')
                                                 fill="#03A6A6" />
                                         </svg>
                                         <p class="mil-text-l mil-mb-60 mil-up mil-light">
-                                            Vallfield is not just a payments platform, it is a
+                                            Vallfield is not just a banking platform, it is a
                                             comprehensive solution. The global network, security
                                             and variety of options make Vallfield my number one
                                             option for all my quisque rutrum transactions.
